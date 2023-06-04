@@ -1,0 +1,8 @@
+C:\Users\dadao_dwhcoro\source\repos\Learning\Learning\bin\Release\Learning.exe.config
+C:\Users\dadao_dwhcoro\source\repos\Learning\Learning\bin\Release\Learning.exe
+C:\Users\dadao_dwhcoro\source\repos\Learning\Learning\bin\Release\Learning.pdb
+C:\Users\dadao_dwhcoro\source\repos\Learning\Learning\obj\Release\Learning.csproj.AssemblyReference.cache
+C:\Users\dadao_dwhcoro\source\repos\Learning\Learning\obj\Release\Learning.csproj.SuggestedBindingRedirects.cache
+C:\Users\dadao_dwhcoro\source\repos\Learning\Learning\obj\Release\Learning.csproj.CoreCompileInputs.cache
+C:\Users\dadao_dwhcoro\source\repos\Learning\Learning\obj\Release\Learning.exe
+C:\Users\dadao_dwhcoro\source\repos\Learning\Learning\obj\Release\Learning.pdb
